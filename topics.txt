@@ -1,0 +1,21 @@
+# Add one topic per line. Run: python main.py --file topics.txt
+# Lines starting with # are ignored.
+
+# Dark History
+The Rwandan Genocide — 100 days of slaughter
+Stalin's Great Purge — how he killed his own army
+The Khmer Rouge and the Killing Fields of Cambodia
+Vlad the Impaler — the real Dracula
+
+# Science & Space
+The heat death of the universe explained
+What happens inside a black hole
+The Great Oxygenation Event that nearly destroyed all life
+
+# True Crime
+H.H. Holmes — America's first serial killer
+The Zodiac Killer — the case that was never solved
+
+# Disasters
+The Chernobyl disaster — what really happened
+The 1918 Spanish Flu that killed more than World War 1

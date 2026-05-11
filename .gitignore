@@ -1,0 +1,24 @@
+# Environment
+.env
+client_secrets.json
+token.json
+
+# Output & temp (generated files, not source)
+output/
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Assets (add your own music — don't commit licensed audio)
+assets/music/
+
+# OS
+.DS_Store
+Thumbs.db
